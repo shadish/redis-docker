@@ -19,5 +19,9 @@
   "homepage": "https://github.com/shadish/redis-docker#readme",
   "devDependencies": {
     "redis": "^2.8.0"
+  },
+  "dependencies": {
+    "promisify": "0.0.3",
+    "util": "^0.11.0"
   }
 }
